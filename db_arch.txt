@@ -1,6 +1,8 @@
-1) 
+iuser
+
+1)	audience
 	name,mobile,email,college,password
 
-2) 
+2)	events	
 	mobile,event1,event2,event3,.......event10
 
