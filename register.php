@@ -2,7 +2,7 @@
     $db_name="iuser"; // database name
    $db_user="root"; // database username
    $db_pass=""; // database password
-   $db_host="127.0.0.1:3307"; // domain (example : igowtham.com)
+   $db_host="127.0.0.1:3307"; // domain 
    $con=mysqli_connect("$db_host","$db_user","$db_pass","$db_name");
   if (!$con)
    {
