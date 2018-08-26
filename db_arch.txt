@@ -1,0 +1,6 @@
+1) 
+	name,mobile,email,college,password
+
+2) 
+	mobile,event1,event2,event3,.......event10
+
